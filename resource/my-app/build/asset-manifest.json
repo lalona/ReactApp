@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "../../resource/my-app/build/static/css/main.523f09c5.chunk.css",
+    "main.js": "../../resource/my-app/build/static/js/main.0d454db1.chunk.js",
+    "main.js.map": "../../resource/my-app/build/static/js/main.0d454db1.chunk.js.map",
+    "runtime-main.js": "../../resource/my-app/build/static/js/runtime-main.136f4e2d.js",
+    "runtime-main.js.map": "../../resource/my-app/build/static/js/runtime-main.136f4e2d.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "../../resource/my-app/build/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "../../resource/my-app/build/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "../../resource/my-app/build/index.html",
+    "precache-manifest.9116b6795027135af3778cc43c351bf1.js": "../../resource/my-app/build/precache-manifest.9116b6795027135af3778cc43c351bf1.js",
+    "service-worker.js": "../../resource/my-app/build/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "../../resource/my-app/build/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "../../resource/my-app/build/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "../../resource/my-app/build/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136f4e2d.js",
+    "static/js/2.2f5ef2c2.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.0d454db1.chunk.js"
+  ]
+}
