@@ -1,4 +1,4 @@
-# forecast-app
+# forecast-vuejs
 
 ## Project setup
 ```
